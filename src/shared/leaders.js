@@ -1,0 +1,42 @@
+export const LEADERS = [
+    {
+        name:"Nikita Dmytriienko",
+        position:"Manager",
+        company:"Watches Inc.",
+        email:"dmitrienko.nikita@lll.kpi.ua",
+        phone:"+38055-555-55-55",
+        address:"Kyiv",
+    },
+    {
+      name:"Valentyn Lifterov",
+      position:"CTO",
+      company:"Watches Inc.",
+      email:"lifterov.valentyn@lll.kpi.ua",
+      phone:"+38066-666-66-66",
+      address:"Kyiv",
+  },
+  {
+    name:"Zakharenko Nikita",
+    position:"Designer",
+    company:"Watches Inc.",
+    email:"zakharenko.nikita@lll.kpi.ua",
+    phone:"+38077-777-77-77",
+    address:"Dnipro",
+ },
+ {
+  name:"Bashinskiy Vladyslav",
+  position:"Lead AI Researcher",
+  company:"Watches Inc.",
+  email:"bashinskiy.vladyslav@lll.kpi.ua",
+  phone:"+38088-888-88-88",
+  address:"Kharkiv",
+},
+{
+  name:"Sapelnikov Viacheslav",
+  position:"Team Leader",
+  company:"Watches Inc.",
+  email:"sapelnikov.viacheslav@lll.kpi.ua",
+  phone:"+38099-999-99-99",
+  address:"Donetsk",
+},
+  ];
